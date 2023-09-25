@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "name": "Bags",
+      "subcategories": [
+        "Bridal Bags",
+        "Hand Bags",
+        "Clutch"
+      ]
+    },
+    {
+      "name": "Jewelry",
+      "subcategories": [
+        "Necklace",
+        "Ear rings",
+        "Rings"
+      ]
+    },
+    {
+      "name": "Cosmetic",
+      "subcategories": [
+        "Serum",
+        "Foundation",
+        "Tint"
+      ]
+    }
+  ]
+}
